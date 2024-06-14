@@ -13,7 +13,7 @@ This demonstration agent is built using [Vertex AI Agent Builder](https://cloud.
 This agent only demonstrates the integration of a simple OpenAPI tool and agent chaining, but you could also add [Data stores](https://cloud.google.com/dialogflow/vertex/docs/concept/data-store) or Functions when the agent is deployed.
 
 <p align="center">
-<img src="./assets/architectureDiagram.png" alt="Diagram" width="600"/>
+<img src="./assets/architectureDiagram.png" alt="Diagram" width="500"/>
 </p>
 
 ## Components
