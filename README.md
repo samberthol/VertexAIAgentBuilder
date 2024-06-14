@@ -11,14 +11,17 @@ This demonstration agent is built using [Vertex AI Agent Builder](https://cloud.
 ## Architecture Design
 
 This agent only demonstrates the integration of a simple OpenAPI tool and agent chaining, but you could also add [Data stores](https://cloud.google.com/dialogflow/vertex/docs/concept/data-store) or Functions when the agent is deployed.
-![Diagram](architectureDiagram.png)
+
+<p align="center">
+<img src="./assets/architectureDiagram.png" alt="Diagram" width="600"/>
+</p>
 
 ## Components
 The content of this repo holds the following resources :
 - **Agent Application** A Zip file that you can import in Vertex AI Agent Builder
 - **Web Service** A web application using Python and Javascript that exposes a frontend website and an API.
 
-![Frontend and Chatbot](demo.gif)
+![Frontend and Chatbot](./assets/demo.gif)
 
 ## Setup
 
